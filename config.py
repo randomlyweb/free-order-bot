@@ -1,5 +1,5 @@
-TOKEN = '6624752341:AAHXIo3fe4-bCBIrXFzWu5HJ0HB8LEG4wGU'
-ADMIN_IDS = [6908365114]
+TOKEN = 'Ваш токен'
+ADMIN_IDS = [Ваши ID]
 
 
 # my themes link | Ссылка на мои темы
